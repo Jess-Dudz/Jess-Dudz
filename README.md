@@ -8,4 +8,4 @@ I specialize in bridging the gap between high-level leadership and technical ana
 - 🛠️ **Skills:** Python (NumPy, Pandas, Matplotlib), SQL, Strategic Planning, and Data Visualization.
 - 🎰 **Niche:** I'm fascinated by the intersection of behavioral economics and casino reinvestment math.
 
-[LinkedIn](YOUR_LINK_HERE) | [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/jessi-dudz/) | [Email](mailto:jessdudz78@outlook.com)
