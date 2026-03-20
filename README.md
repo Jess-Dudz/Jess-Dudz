@@ -13,17 +13,18 @@ I specialize in bridging the gap between high-level leadership and technical ana
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Independent Research & Projects
+*These projects represent independent technical explorations used to apply MSDS methodologies to real-world datasets.*
 
 * **[The Variance Engine](https://github.com/Jess-Dudz/casino-loyalty-roi)**
-    > *In Progress (Year-Long Longitudinal Study):* A predictive model and data acquisition project analyzing the ROI of loyalty programs across land-based (Oklahoma) and maritime (Cruise) gaming environments. Currently in the data-gathering and validation phase.
+    > *Longitudinal Case Study (In Progress):* A year-long independent research project analyzing the ROI of loyalty programs through stochastic modeling. This study tracks data across land-based (Oklahoma) and maritime (Cruise) environments to validate variance-based reinvestment theories.
 * **[Carnival Algorithm Decoder](https://github.com/Jess-Dudz/carnival-algorithm-decoder)**
-    > *Recently Completed:* A technical deep-dive into gaming patterns and algorithmic outcomes. This project focuses on decoding reinvestment strategies to optimize data-driven player incentives.
+    > *Predictive Modeling Practice:* A technical deep-dive into gaming patterns. This project focuses on decoding reinvestment strategies to understand how data-driven incentives influence player behavior.
 
 ---
 
 ### 🎰 The Niche
-I operate at the intersection of **behavioral economics** and **predictive analytics**. I specialize in how data-driven incentives—like loyalty programs and reinvestment strategies—drive customer behavior in high-stakes, high-variance industries.
+I operate at the intersection of **behavioral economics** and **predictive analytics**. I am interested in how data-driven incentives—like loyalty programs and reinvestment strategies—drive customer behavior in high-stakes, high-variance industries.
 
 ---
 
@@ -34,6 +35,14 @@ When I'm not building models in Jupyter Notebooks, you can find me:
 * **Gaming:** Navigating complex systems and quests in *World of Warcraft*.
 
 ---
+
+### 📫 Connect with me
+[**LinkedIn**](https://www.linkedin.com/in/jessi-dudz/) | [**Email**](mailto:jessdudz78@outlook.com)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jess-Dudz&show_icons=true&theme=radical" alt="Jessi's GitHub Stats" />
+</p>
 
 ### 📫 Connect with me
 [**LinkedIn**](https://www.linkedin.com/in/jessi-dudz/) | [**Email**](mailto:jessdudz78@outlook.com)
