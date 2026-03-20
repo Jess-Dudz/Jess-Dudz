@@ -16,7 +16,7 @@ I specialize in bridging the gap between high-level leadership and technical ana
 ### 🚀 Featured Projects
 
 * **[The Variance Engine](https://github.com/Jess-Dudz/casino-loyalty-roi)**
-    > A predictive model designed to analyze maritime casino loyalty programs, calculating ROI through the lens of mathematical variance and reinvestment math.
+    > *In Progress (Year-Long Longitudinal Study):* A predictive model and data acquisition project analyzing the ROI of loyalty programs across land-based (Oklahoma) and maritime (Cruise) gaming environments. Currently in the data-gathering and validation phase.
 * **[Carnival Algorithm Decoder](https://github.com/Jess-Dudz/carnival-algorithm-decoder)**
     > *Recently Completed:* A technical deep-dive into gaming patterns and algorithmic outcomes. This project focuses on decoding reinvestment strategies to optimize data-driven player incentives.
 
