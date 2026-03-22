@@ -14,19 +14,20 @@ I specialize in bridging the gap between high-level leadership and technical ana
 ---
 
 ### 🚀 Portfolio in Development
-*I am currently building out a suite of independent research projects. While the source code for these projects is currently in private development, summaries of my methodologies are below:*
+I am currently building out a suite of independent research projects. While the source code for some is in private development, summaries of my methodologies are below:
 
 **🌪️ The Great Migration & The Nocturnal Creep**
 * **Status:** Complete (Technical Analysis & ML Modeling)
 * **The Project:** A spatiotemporal study of 75 years of NOAA records investigating the geographic shift of tornado density toward the Southeast and the "nocturnal creep" of nighttime touchdowns. 
 * **The Tech:** Built a high-performance **DuckDB** ETL pipeline to process 43,000+ records and deployed a **SMOTE-enhanced Random Forest Classifier** to mathematically model nocturnal risk factors.
-* **The Variance Engine**
-    > **Status:** *Longitudinal Study (Phase 1: Data Acquisition)*
-    > A predictive model analyzing the ROI of loyalty programs across land-based and maritime gaming environments. This project utilizes stochastic modeling to validate variance-based reinvestment theories over a year-long study period.
-* **Carnival Algorithm Decoder**
-    > **Status:** *Technical Analysis (Complete)*
-    > An independent deep-dive into gaming patterns and algorithmic outcomes. This research focuses on decoding reinvestment strategies to understand how data-driven incentives influence player behavior.
 
+**📈 The Variance Engine**
+* **Status:** Longitudinal Study (Phase 1: Data Acquisition)
+* **The Project:** A predictive model analyzing the ROI of loyalty programs across land-based and maritime gaming environments. This project utilizes stochastic modeling to validate variance-based reinvestment theories over a year-long study period.
+
+**🎰 Carnival Algorithm Decoder**
+* **Status:** Technical Analysis (Complete)
+* **The Project:** An independent deep-dive into gaming patterns and algorithmic outcomes. This research focuses on decoding reinvestment strategies to understand how data-driven incentives influence player behavior.
 ---
 
 ### 🎰 Research Focus
