@@ -97,12 +97,3 @@ I specialize in modeling how **incentive structures influence decision-making un
   <img src="https://github-readme-stats.vercel.app/api?username=Jess-Dudz&show_icons=true&theme=radical" />
 </p>
 
-
-[**LinkedIn**](https://www.linkedin.com/in/jessi-dudz/) | [**Email**](mailto:jessdudz78@outlook.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jess-Dudz&show_icons=true&theme=radical" alt="Jessi's GitHub Stats" />
-</p>
-
