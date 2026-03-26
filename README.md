@@ -1,73 +1,102 @@
 # Hi, I'm Jessi! 👋
 
-### 📊 Data Scientist | MS Data Science Candidate | MBA
-
-I build decision-support tools that translate complex data into clear, actionable insights. My work sits at the intersection of **predictive analytics, behavioral economics, and real-world operational strategy**.
-
----
-
-### 🚀 Featured Project
-
-**🎰 Player EV Decision Engine**
-🔗 https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/
-
-A live, interactive application that models expected value (EV) and tier progression within the Carnival cruise casino ecosystem.
-
-**What it does:**
-
-* Calculates expected value of continuing vs stopping play
-* Evaluates tier progression incentives using community-sourced data
-* Provides decision recommendations based on modeled outcomes
-
-**Tech:** Python, Streamlit, Pandas
+<p align="center">
+  <b>Data Scientist • MS Data Science Candidate • MBA</b><br>
+  Building decision systems at the intersection of data, behavior, and strategy
+</p>
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🚀 Featured Project
 
-* **Languages:** Python (NumPy, Pandas, Scikit-Learn), SQL, R
-* **Core Skills:** Predictive Modeling, Stochastic Simulation, Decision Analysis
-* **Data Tools:** Streamlit, DuckDB, Data Visualization
-* **Strength:** Translating complex models into intuitive, user-facing tools
+### 🎰 Player EV Decision Engine
+
+🔗 [Live App](https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/player-ev-decision-engine)
+
+An interactive decision-support tool modeling expected value (EV) and tier progression within the Carnival cruise casino ecosystem.
+
+**Key Capabilities:**
+
+* 📊 Expected value modeling (continue vs stop decisions)
+* 🎯 Tier progression analysis using real-world data
+* ⚖️ Decision recommendations under uncertainty
+
+**Tech Stack:** Python • Streamlit • Pandas
 
 ---
 
-### 📈 Selected Projects
+## 🛠️ Technical Toolkit
 
-**🌪️ The Great Migration & The Nocturnal Creep**
-A spatiotemporal analysis of 75 years of NOAA tornado data identifying geographic and temporal shifts in severe weather patterns.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+</p>
 
-* Built a high-performance **DuckDB ETL pipeline** processing 43,000+ records
-* Developed a **SMOTE-enhanced Random Forest model** to analyze nocturnal risk
+**Core Strengths**
+
+* Predictive Modeling & Stochastic Simulation
+* Decision Analysis & Behavioral Economics
+* Data Visualization & Communication
+* Translating complex models into user-facing tools
 
 ---
 
-**📊 The Variance Engine** *(In Progress)*
-A longitudinal study modeling ROI and variance across loyalty systems in high-risk environments.
+## 📈 Selected Projects
+
+### 🌪️ The Great Migration & The Nocturnal Creep
+
+Spatiotemporal analysis of 75 years of NOAA tornado data identifying shifts in geographic density and nighttime risk.
+
+* Built a high-performance **DuckDB ETL pipeline** (43,000+ records)
+* Developed a **SMOTE-enhanced Random Forest model**
+
+---
+
+### 📊 The Variance Engine *(In Progress)*
+
+A longitudinal study modeling ROI and variance across loyalty systems.
 
 * Focused on stochastic modeling and reinvestment optimization
-* Designed to evaluate long-term player value vs short-term variance
+* Designed to evaluate long-term value vs short-term variance
 
 ---
 
-### 🎯 Research Focus
+## 🎯 Research Focus
 
-I specialize in modeling how **incentive structures influence decision-making** in uncertain, high-variance systems.
-My work applies data science to answer one core question:
+I specialize in modeling how **incentive structures influence decision-making under uncertainty**.
 
-👉 *“What is the optimal decision given incomplete information and probabilistic outcomes?”*
-
----
-
-### 🖋️ Beyond the Data
-
-* ✍️ Published writer with a background in English and technical storytelling
-* 🌊 Avid traveler (often found on 10-day cruises)
-* 🎮 Strategy gamer (*World of Warcraft*) with a love for complex systems
+> *What is the optimal decision given incomplete information and probabilistic outcomes?*
 
 ---
 
-### 📫 Connect with me
+## 🖋️ Beyond the Data
+
+* ✍️ Published writer with a background in English & storytelling
+* 🌊 Frequent cruiser & future scuba diver
+* 🎮 Strategy gamer (*World of Warcraft*)
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jessi-dudz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jessdudz78@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jess-Dudz&show_icons=true&theme=radical" />
+</p>
+
 
 [**LinkedIn**](https://www.linkedin.com/in/jessi-dudz/) | [**Email**](mailto:jessdudz78@outlook.com)
 
