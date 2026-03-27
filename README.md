@@ -11,7 +11,8 @@
   <b>Data Scientist • Predictive Modeling & Decision Systems</b><br>
   Building decision systems that model risk, behavior, and real-world strategy under uncertainty
 </p>
-> I focus on one core question:
+I focus on one core question:
+
 > **What is the optimal decision when outcomes are uncertain and incentives are complex?**
 
 ---
