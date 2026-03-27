@@ -1,9 +1,18 @@
+## 🚀 Live Decision Systems
+
+👉 **[🌪️ Tornado Risk Intelligence Dashboard](https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/)**
+👉 **[🎰 Player EV Decision Engine](https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/)**
+
+---
+
 # Hi, I'm Jessi! 👋
 
 <p align="center">
   <b>Data Scientist • Predictive Modeling & Decision Systems</b><br>
-  Building data-driven tools that model risk, behavior, and decision-making under uncertainty
+  Building decision systems that model risk, behavior, and real-world strategy under uncertainty
 </p>
+> I focus on one core question:
+> **What is the optimal decision when outcomes are uncertain and incentives are complex?**
 
 ---
 
@@ -13,7 +22,7 @@
 
 🔗 [Live App](https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/spatiotemporal-tornado-trends-etl)
 
-An interactive **risk intelligence system** that models tornado risk across the U.S. by combining frequency, severity, and spatiotemporal dynamics.
+An interactive **decision-support system** that models tornado risk across the U.S. by combining frequency, severity, and spatiotemporal dynamics.
 
 **Key Capabilities:**
 
@@ -32,7 +41,7 @@ An interactive **risk intelligence system** that models tornado risk across the 
 
 🔗 [Live App](https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/player-ev-decision-engine)
 
-A decision-support system modeling expected value (EV) and tier progression in a casino rewards ecosystem.
+A decision-support system designed to evaluate **continue vs. stop decisions under uncertainty**, modeling expected value (EV) and tier progression in a casino rewards ecosystem.
 
 **Key Capabilities:**
 
