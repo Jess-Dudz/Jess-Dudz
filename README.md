@@ -1,27 +1,47 @@
 # Hi, I'm Jessi! 👋
 
 <p align="center">
-  <b>Data Scientist • MS Data Science Candidate • MBA</b><br>
-  Building decision systems at the intersection of data, behavior, and strategy
+  <b>Data Scientist • Predictive Modeling & Decision Systems</b><br>
+  Building data-driven tools that model risk, behavior, and decision-making under uncertainty
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
+### 🌪️ Tornado Risk Intelligence Dashboard
+
+🔗 [Live App](https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/spatiotemporal-tornado-trends-etl)
+
+An interactive **risk intelligence system** that models tornado risk across the U.S. by combining frequency, severity, and spatiotemporal dynamics.
+
+**Key Capabilities:**
+
+* 🧠 Dynamic risk scoring model (severity vs frequency weighting)
+* 📊 Identification of high-risk state + hour combinations
+* 📈 Trend analysis across 75 years of NOAA data
+* 📊 Confidence scoring based on sample size
+
+**Tech Stack:** Python • Streamlit • DuckDB • Pandas • PyDeck
+
+---
+
+## 🔥 Secondary Project
+
 ### 🎰 Player EV Decision Engine
 
 🔗 [Live App](https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/player-ev-decision-engine)
 
-An interactive decision-support tool modeling expected value (EV) and tier progression within the Carnival cruise casino ecosystem.
+A decision-support system modeling expected value (EV) and tier progression in a casino rewards ecosystem.
 
 **Key Capabilities:**
 
 * 📊 Expected value modeling (continue vs stop decisions)
-* 🎯 Tier progression analysis using real-world data
-* ⚖️ Decision recommendations under uncertainty
+* 🎯 Decision threshold identification via decision trees
+* 🎲 Monte Carlo simulation of reward outcomes
+* 💰 Quantified financial exposure and promotional risk
 
-**Tech Stack:** Python • Streamlit • Pandas
+**Tech Stack:** Python • Streamlit • Pandas • Scikit-learn
 
 ---
 
@@ -37,36 +57,27 @@ An interactive decision-support tool modeling expected value (EV) and tier progr
 
 **Core Strengths**
 
-* Predictive Modeling & Stochastic Simulation
-* Decision Analysis & Behavioral Economics
-* Data Visualization & Communication
+* Predictive Modeling & Risk Analysis
+* Decision Systems & Behavioral Modeling
+* Data Engineering & ETL Pipelines
 * Translating complex models into user-facing tools
 
 ---
 
-## 📈 Selected Projects
-
-### 🌪️ The Great Migration & The Nocturnal Creep
-
-Spatiotemporal analysis of 75 years of NOAA tornado data identifying shifts in geographic density and nighttime risk.
-
-* Built a high-performance **DuckDB ETL pipeline** (43,000+ records)
-* Developed a **SMOTE-enhanced Random Forest model**
-
----
+## 📈 Additional Work
 
 ### 📊 The Variance Engine *(In Progress)*
 
-A longitudinal study modeling ROI and variance across loyalty systems.
+A longitudinal system modeling ROI and variance across loyalty and incentive structures.
 
 * Focused on stochastic modeling and reinvestment optimization
-* Designed to evaluate long-term value vs short-term variance
+* Designed to evaluate long-term value vs short-term volatility
 
 ---
 
 ## 🎯 Research Focus
 
-I specialize in modeling how **incentive structures influence decision-making under uncertainty**.
+I specialize in modeling how **incentive structures and environmental factors influence decision-making under uncertainty**.
 
 > *What is the optimal decision given incomplete information and probabilistic outcomes?*
 
@@ -74,7 +85,7 @@ I specialize in modeling how **incentive structures influence decision-making un
 
 ## 🖋️ Beyond the Data
 
-* ✍️ Published writer with a background in English & storytelling
+* ✍️ Published writer with a background in storytelling
 * 🌊 Frequent cruiser & future scuba diver
 * 🎮 Strategy gamer (*World of Warcraft*)
 
@@ -96,4 +107,3 @@ I specialize in modeling how **incentive structures influence decision-making un
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jess-Dudz&show_icons=true&theme=radical" />
 </p>
-
