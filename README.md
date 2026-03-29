@@ -1,61 +1,86 @@
 ## 🚀 Live Decision Systems
 
-👉 **[🌪️ Tornado Risk Intelligence Dashboard](https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/)**
-👉 **[🎰 Player EV Decision Engine](https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/)**
+🌪️ **Tornado Risk Intelligence Dashboard**  
+https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/
+
+🎰 **Player EV Decision Engine**  
+https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/
 
 ---
 
-# Hi, I'm Jessi! 👋
+# Hi, I’m Jessi 👋  
 
 <p align="center">
-  <b>Data Scientist • Predictive Modeling & Decision Systems</b><br>
-  Building decision systems that model risk, behavior, and real-world strategy under uncertainty
+  <b>Data Scientist | Decision Systems | Predictive Modeling</b><br>
+  Building systems that translate uncertainty into actionable decisions
 </p>
-I focus on one core question:
-
-> **What is the optimal decision when outcomes are uncertain and incentives are complex?**
 
 ---
 
-## 🚀 Featured Project
+## 🧠 What I Do
 
-### 🌪️ Tornado Risk Intelligence Dashboard
+I design and build **decision-support systems** that model risk, behavior, and strategy in environments where outcomes are uncertain and incentives are complex.
 
-🔗 [Live App](https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/spatiotemporal-tornado-trends-etl)
+> **Core question I solve:**  
+> *What is the optimal decision when outcomes are probabilistic and information is incomplete?*
 
-An interactive **decision-support system** that models tornado risk across the U.S. by combining frequency, severity, and spatiotemporal dynamics.
-
-**Key Capabilities:**
-
-* 🧠 Dynamic risk scoring model (severity vs frequency weighting)
-* 📊 Identification of high-risk state + hour combinations
-* 📈 Trend analysis across 75 years of NOAA data
-* 📊 Confidence scoring based on sample size
-
-**Tech Stack:** Python • Streamlit • DuckDB • Pandas • PyDeck
+My work sits at the intersection of:
+- Predictive modeling  
+- Behavioral analysis  
+- Decision optimization  
+- Real-world application  
 
 ---
 
-## 🔥 Secondary Project
+# 🚀 Featured Work
 
-### 🎰 Player EV Decision Engine
+## 🌪️ Tornado Risk Intelligence Dashboard
 
-🔗 [Live App](https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/) | [GitHub Repo](https://github.com/Jess-Dudz/player-ev-decision-engine)
+🔗 Live App  
+https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/
 
-A decision-support system designed to evaluate **continue vs. stop decisions under uncertainty**, modeling expected value (EV) and tier progression in a casino rewards ecosystem.
+🔗 GitHub Repo  
+https://github.com/Jess-Dudz/spatiotemporal-tornado-trends-etl
 
-**Key Capabilities:**
+A **spatiotemporal risk modeling system** that identifies when and where tornado risk is highest across the U.S., combining severity, frequency, and temporal patterns.
 
-* 📊 Expected value modeling (continue vs stop decisions)
-* 🎯 Decision threshold identification via decision trees
-* 🎲 Monte Carlo simulation of reward outcomes
-* 💰 Quantified financial exposure and promotional risk
+### Why it matters:
+Traditional reporting focuses on historical counts—this system transforms raw data into **decision-ready risk intelligence**.
 
-**Tech Stack:** Python • Streamlit • Pandas • Scikit-learn
+### Key Capabilities:
+- 🧠 Dynamic risk scoring model (severity vs frequency weighting)  
+- ⏱️ Identification of high-risk state + hour combinations  
+- 📊 75-year trend analysis using NOAA data  
+- 📉 Confidence scoring to account for sample size reliability  
+
+**Tech Stack:** Python • Streamlit • DuckDB • Pandas • PyDeck  
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🎰 Player EV Decision Engine
+
+🔗 Live App  
+https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/
+
+🔗 GitHub Repo  
+https://github.com/Jess-Dudz/player-ev-decision-engine
+
+A **decision-support engine** designed to evaluate *continue vs. stop* strategies under uncertainty using expected value (EV), simulation, and behavioral modeling.
+
+### Why it matters:
+Most decision environments involve **incentives, risk, and incomplete information**—this system models those dynamics to support optimal decision-making.
+
+### Key Capabilities:
+- 📊 Expected value modeling for decision optimization  
+- 🌳 Decision threshold identification using decision trees  
+- 🎲 Monte Carlo simulation of reward outcomes  
+- 💰 Quantification of financial exposure and risk  
+
+**Tech Stack:** Python • Streamlit • Pandas • Scikit-learn  
+
+---
+
+# 🛠️ Technical Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,60 +90,59 @@ A decision-support system designed to evaluate **continue vs. stop decisions und
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
 </p>
 
-**Core Strengths**
-
-* Predictive Modeling & Risk Analysis
-* Decision Systems & Behavioral Modeling
-* Data Engineering & ETL Pipelines
-* Translating complex models into user-facing tools
-
----
----
-
-## 📊 Additional Project
-
-### 🌊 Lake of the Ozarks Property Intelligence Dashboard
-
-A decision-support dashboard designed to identify, score, and prioritize high-value waterfront properties for targeted outreach in the marine services market.
-
-**Key Capabilities:**
-
-* 📈 Property scoring model based on value, features, and size  
-* 🎯 A/B/C prioritization system for outreach strategy  
-* 🧠 Segment-based targeting (Premier, High-Value, Prospect)  
-* 📊 Dashboard with actionable insights and top 10 targets  
-
-**Tech Stack:** Excel • Data Modeling • Feature Engineering • Dashboard Design  
-
-🔗 [View Project](https://github.com/Jess-Dudz/lake-ozarks-property-intelligence)
-## 📈 Additional Work
-
-### 📊 The Variance Engine *(In Progress)*
-
-A longitudinal system modeling ROI and variance across loyalty and incentive structures.
-
-* Focused on stochastic modeling and reinvestment optimization
-* Designed to evaluate long-term value vs short-term volatility
+### Core Strengths
+- Predictive Modeling & Risk Analysis  
+- Decision Systems & Behavioral Modeling  
+- Data Engineering & ETL Pipelines  
+- Translating complex models into user-facing tools  
 
 ---
 
-## 🎯 Research Focus
+# 📊 Additional Projects
 
-I specialize in modeling how **incentive structures and environmental factors influence decision-making under uncertainty**.
+## 🌊 Lake of the Ozarks Property Intelligence Dashboard
 
-> *What is the optimal decision given incomplete information and probabilistic outcomes?*
+🔗 Project Repo  
+https://github.com/Jess-Dudz/lake-ozarks-property-intelligence
+
+A decision-support system for identifying and prioritizing high-value waterfront properties for targeted outreach.
+
+### Key Capabilities:
+- 📈 Property scoring model (value, features, size)  
+- 🎯 A/B/C prioritization system for outreach  
+- 🧠 Segment-based targeting strategy  
+- 📊 Actionable dashboard with top opportunities  
+
+**Tech Stack:** Excel • Data Modeling • Feature Engineering  
 
 ---
 
-## 🖋️ Beyond the Data
+## 📈 The Variance Engine *(In Progress)*
 
-* ✍️ Published writer with a background in storytelling
-* 🌊 Frequent cruiser & future scuba diver
-* 🎮 Strategy gamer (*World of Warcraft*)
+A longitudinal modeling system analyzing ROI, variance, and reinvestment strategies across incentive structures.
+
+- Focused on stochastic modeling and long-term optimization  
+- Evaluates trade-offs between volatility and sustained value  
 
 ---
 
-## 📫 Connect with Me
+# 🎯 Research Focus
+
+I specialize in modeling how **incentive structures and environmental variables influence decision-making under uncertainty**.
+
+> *How do we make better decisions when outcomes are probabilistic and systems are complex?*
+
+---
+
+# 🖋️ Beyond the Data
+
+- ✍️ Published writer with a background in storytelling  
+- 🌊 Frequent cruiser & future scuba diver  
+- 🎮 Strategy gamer (*World of Warcraft*)  
+
+---
+
+# 📫 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/jessi-dudz/">
