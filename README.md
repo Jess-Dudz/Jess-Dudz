@@ -73,7 +73,24 @@ A decision-support system designed to evaluate **continue vs. stop decisions und
 * Translating complex models into user-facing tools
 
 ---
+---
 
+## 📊 Additional Project
+
+### 🌊 Lake of the Ozarks Property Intelligence Dashboard
+
+A decision-support dashboard designed to identify, score, and prioritize high-value waterfront properties for targeted outreach in the marine services market.
+
+**Key Capabilities:**
+
+* 📈 Property scoring model based on value, features, and size  
+* 🎯 A/B/C prioritization system for outreach strategy  
+* 🧠 Segment-based targeting (Premier, High-Value, Prospect)  
+* 📊 Dashboard with actionable insights and top 10 targets  
+
+**Tech Stack:** Excel • Data Modeling • Feature Engineering • Dashboard Design  
+
+🔗 [View Project](https://github.com/Jess-Dudz/lake-ozarks-property-intelligence)
 ## 📈 Additional Work
 
 ### 📊 The Variance Engine *(In Progress)*
