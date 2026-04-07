@@ -2,30 +2,40 @@
 
 **Applied Analytics | Predictive Modeling | Decision Systems**
 
-Building tools that turn uncertainty into usable decisions.
+I build analytical tools that help people make better decisions when the inputs are messy, the tradeoffs are real, and the answer is not obvious.
+
+Across recreational boating, weather risk, property intelligence, and reward optimization, my work follows the same core pattern:  
+**structure uncertainty, model tradeoffs, and turn analysis into action.**
 
 ---
 
-## Selected Work
+## How I Think
 
-### WakeIQ
-Decision-support product for recreational boat selection, setup planning, and dock/lift compatibility.
+The projects here are different in subject matter, but they are connected in approach.
 
-- Built a user-facing recommendation flow around real-world ownership constraints
-- Structured decision logic around boat use, setup tradeoffs, and install realities
-- Focused on product clarity as much as analytical logic
+I’m most interested in problems that require:
+- translating ambiguity into a usable framework
+- balancing risk, constraints, and competing priorities
+- building tools that support real decisions, not just analysis for its own sake
+
+---
+
+## Selected Applications
+
+### LakeLifeIQ
+A decision-support product for recreational boat selection, setup planning, and dock/lift compatibility.
+
+This project applies constraint-based recommendation logic to a real-world consumer decision: helping users narrow options based on how they use the water, what their setup allows, and what upgrades make sense.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS  
-**Repo:** https://github.com/Jess-Dudz/wakeiq-platform-concept
+**Repo:** https://github.com/Jess-Dudz/lakelifeiq-platform-concept
 
 ---
 
 ### Tornado Risk Intelligence Dashboard
-Spatiotemporal risk modeling dashboard built from historical tornado data.
+A spatiotemporal risk modeling dashboard built from historical tornado data.
 
-- Developed a scoring framework that balances severity, frequency, timing, and geography
-- Identified high-risk state and hour patterns across long-run historical data
-- Designed outputs to support interpretation, not just exploration
+This project focuses on risk scoring and pattern detection, turning historical severity, frequency, geography, and timing into more interpretable decision-ready outputs.
 
 **Stack:** Python, Streamlit, DuckDB, Pandas, PyDeck  
 **Live App:** https://spatiotemporal-tornado-trends-etl-33lzqces6fp8zwndje4ch6.streamlit.app/  
@@ -34,34 +44,31 @@ Spatiotemporal risk modeling dashboard built from historical tornado data.
 ---
 
 ### Player EV Decision Engine
-Decision-support tool for expected value, reward optimization, and continue/stop strategy under uncertainty.
+A decision-support tool for expected value, reward optimization, and continue/stop strategy under uncertainty.
 
-- Modeled probabilistic tradeoffs using EV logic, thresholds, and simulation
-- Evaluated risk, reward, and tier progression in a structured decision framework
-- Turned a noisy behavioral problem into a usable recommendation system
+This project models probabilistic tradeoffs and incentive structures, with the goal of turning a noisy behavioral problem into a more rational decision framework.
 
-**Stack:** Python, Streamlit, Pandas, Scikit-learn  
+**Stack:** Python, Streamlit, Pandas  
 **Live App:** https://player-ev-decision-engine-l6hzfsvqratrpjkihgt2x4.streamlit.app/  
 **Repo:** https://github.com/Jess-Dudz/player-ev-decision-engine
 
 ---
 
 ### Lake of the Ozarks Property Intelligence
-Property intelligence dashboard for ranking and prioritizing waterfront opportunities.
+A property intelligence dashboard for ranking and prioritizing waterfront opportunities.
 
-- Built a scoring model to identify high-priority properties
-- Supported segmentation, prioritization, and targeted outreach strategy
+This project applies scoring and prioritization logic to market targeting, helping identify which properties warrant attention first and why.
 
 **Repo:** https://github.com/Jess-Dudz/lake-ozarks-property-intelligence
 
 ---
 
-## Toolkit
+## Core Toolkit
 
 **Languages & Tools**  
 Python, SQL, R, TypeScript, React, Next.js, Streamlit, DuckDB, Pandas, Scikit-learn, Tailwind CSS, Excel
 
-**Strengths**  
+**Focus Areas**  
 Predictive Modeling • Risk Analysis • Decision Systems • Applied Analytics • ETL • Data Storytelling
 
 ---
