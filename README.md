@@ -21,4 +21,4 @@ My work sits between data analysis, business intelligence, operations, and marke
 Python, SQL, R, DuckDB, Excel, Pandas, NumPy, scikit-learn, Streamlit, Git, GitHub
 
 ## Background
-I am currently completing an M.S. in Data Science and also hold an MBA. My background includes analytics project work, operations leadership, marketing analysis, and e-commerce management, which shapes how I approach technical work. I tend to care just as much about usability and business context as I do about the analysis itself. :contentReference[oaicite:0]{index=0}
+I am currently completing an M.S. in Data Science and also hold an MBA. My background includes analytics project work, operations leadership, marketing analysis, and e-commerce management, which shapes how I approach technical work. I tend to care just as much about usability and business context as I do about the analysis itself.
