@@ -1,69 +1,57 @@
-# Jessica Dudzinski
+# Hi, I'm Jessica 👋
 
-**Aspiring Data Scientist | Marketing Analytics | Customer Insights | Decision-Focused Problem Solving**
+**Business & Data Analyst | Data Science Graduate Student | Decision Support & Analytics**
 
-I’m an analytically driven builder with a strong interest in using data to solve practical business problems.
+I build practical analytics projects that help turn messy information into clearer decisions.
 
-My work focuses on turning ambiguity into structure — whether that means building decision-support tools, scoring frameworks, dashboards, or analytical workflows that help people make clearer, more confident decisions. I’m especially interested in opportunities where analytics supports business strategy, customer understanding, marketing performance, and measurable outcomes.
+My background combines **data analysis, business intelligence, operations, and market strategy**, so I tend to approach projects with both the technical side and the real-world business use case in mind. I enjoy building tools, dashboards, scoring frameworks, and workflows that make complex data easier to understand and use.
 
-## What I Bring
+## What I’m focused on
+- Data analysis and business intelligence
+- Decision-support tools and scoring systems
+- Dashboards and data storytelling
+- ETL workflows and data preparation
+- Market analysis and research
+- Practical analytics that connect data to action
 
-- Strong problem-solving instincts for turning open-ended questions into structured analytical work
-- A business-minded approach to analytics, with attention to usability and decision quality
-- Experience building tools that connect analysis to action rather than stopping at reporting
-- The ability to communicate technical findings in a clear, stakeholder-friendly way
-- A project-based track record of learning quickly and applying technical skills to real use cases
+## Featured Projects
 
-## Areas of Interest
+### LakeLifeIQ
+A validation-stage decision-support platform designed to help recreational boat buyers evaluate boat fit, dock and lift compatibility, upgrade planning, and next steps.
 
-**Data Science** • **Marketing Analytics** • **Customer Analytics** • **Predictive Modeling** • **Experimentation** • **Business Intelligence** • **Decision Systems**
+**Built with:** Next.js, TypeScript, React, Tailwind CSS
 
-## Technical Toolkit
+### Tornado Risk Intelligence Dashboard
+An interactive analytics dashboard built to explore tornado frequency, severity, geography, and timing using historical U.S. storm data.
 
-**Languages & Analytics**  
-Python • SQL • R • Excel
+**Built with:** Python, Streamlit, DuckDB, scikit-learn
 
-**Data / Modeling**  
-Pandas • scikit-learn • DuckDB • ETL workflows • exploratory analysis • scoring logic • forecasting concepts • clustering concepts
+### Lake Market Analysis
+A geographic market analysis project using public Census data to identify and prioritize high-potential target areas for outreach and budget allocation.
 
-**Development / Product**  
-TypeScript • React • Next.js • Tailwind CSS • Streamlit • Git • GitHub
+**Built with:** R, Census API, data visualization tools
 
-## How I Think
+## Tools & Technologies
+- **Languages:** Python, SQL, R
+- **Data & Analytics:** DuckDB, Excel, ETL workflows, data cleaning, statistical analysis
+- **Libraries & Tools:** Pandas, NumPy, scikit-learn, Streamlit, Git, GitHub
+- **Visualization:** Matplotlib, Plotly, dashboards, reporting
+- **Business Skills:** Process improvement, workflow optimization, KPI analysis, stakeholder communication
 
-I’m most interested in analytical work that answers questions like:
+## A little about me
+I’m currently pursuing an **M.S. in Data Science** and also hold an **MBA**, which has shaped how I approach analytics work: not just from a technical angle, but from a decision-making and business value perspective. My professional background also includes operations leadership, marketing analysis, and e-commerce management, which gives me a strong appreciation for practical, usable solutions.
 
-- What is happening in the business, and why?
-- What customer behavior or trend should we pay attention to?
-- How do we measure whether an initiative is working?
-- What decision should this analysis support?
-- How should the output be structured so someone can actually use it?
+## Currently learning and building
+- Stronger dashboard and reporting workflows
+- More advanced analytics and modeling applications
+- Business-focused tools that bridge technical output with user decision-making
 
-That’s the kind of work I want to keep building toward: analytics that are not just technically sound, but useful.
+## Goals
+I’m building projects that sit at the intersection of:
+- analytics
+- decision systems
+- market intelligence
+- workflow optimization
+- business strategy
 
-## Selected Work
-
-- **LakeLifeIQ** – a recommendation and decision-support platform focused on boating fit, setup planning, and user-facing product logic  
-  [Repository](https://github.com/Jess-Dudz/lakelifeiq-platform-concept)
-
-- **Tornado Risk Intelligence Dashboard** – historical trend and risk analysis through spatiotemporal dashboarding  
-  [Repository](https://github.com/Jess-Dudz/spatiotemporal-tornado-trends-etl)
-
-- **Player EV Decision Engine** – expected value and optimization logic for decision-making under uncertainty  
-  [Repository](https://github.com/Jess-Dudz/player-ev-decision-engine)
-
-## Current Focus
-
-Right now I’m continuing to deepen my skills in:
-
-- customer and marketing-oriented analytics
-- predictive and decision-support thinking
-- experimentation-minded analysis
-- translating data into business recommendations
-- building user-facing analytical tools grounded in real constraints
-
-## Connect
-
-- **GitHub:** [Jess-Dudz](https://github.com/Jess-Dudz)
-- **LinkedIn:** [Jess-Dudz](https://www.linkedin.com/in/jessi-dudz/)
-- **Email:** contact@lakelifeiq.com
+Thanks for stopping by.
