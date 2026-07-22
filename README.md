@@ -1,4 +1,4 @@
-# Jessica Dudzinski
+# Jessica "Lena" Dudzinski
 
 I build analytics and decision-support projects with a focus on practical business use.
 
