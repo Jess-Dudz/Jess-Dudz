@@ -1,24 +1,29 @@
-# Jessica "Lena" Dudzinski
+Jessica "Lena" Dudzinski
 
-I build analytics and decision-support projects with a focus on practical business use.
+Data scientist working in customer and marketing analytics, currently focused on segmentation, brand and category performance, and making analytics work less manual.
 
-My work sits between data analysis, business intelligence, operations, and market research. Most of my projects are centered on turning raw or messy information into something more usable, whether that is a dashboard, a scoring framework, a workflow, or a clearer way to support decisions.
+Most of what I build sits between data science and the business decision it is meant to support. I care about whether a result changes what someone does, not just whether the model fits.
 
-## Current focus
-- Data analysis
-- SQL and Python workflows
-- Dashboards and reporting
-- ETL and data preparation
-- Market and business analysis
-- Decision-support tools
+What I work on
+Customer segmentation and methodology design
+Brand and category performance analysis
+Machine learning applied to business problems
+Decision-support tools and measurement design
+Turning recurring manual analysis into something repeatable
+Projects
 
-## Projects
-- **LakeLifeIQ** – decision-support platform for recreational boat buyers
-- **Tornado Risk Intelligence Dashboard** – analytics dashboard and modeling project using historical storm data
-- **Lake Market Analysis** – geographic targeting and market analysis using Census data
+LakeLifeIQ · code Live decision-support platform for recreational boat buyers. Rules-based recommendation engine over a Postgres schema, with outbound click attribution tied back to the plan that produced it. Next.js, TypeScript, Supabase.
 
-## Tools
-Python, SQL, R, DuckDB, Excel, Pandas, NumPy, scikit-learn, Streamlit, Git, GitHub
+Tornado Risk Intelligence Dashboard Analytics dashboard and modeling project built on historical storm data.
 
-## Background
-I am currently completing an M.S. in Data Science and also hold an MBA. My background includes analytics project work, operations leadership, marketing analysis, and e-commerce management, which shapes how I approach technical work. I tend to care just as much about usability and business context as I do about the analysis itself.
+Lake Market Analysis Geographic targeting and market analysis using Census data.
+
+Tools
+
+Snowflake SQL, Python (pandas, NumPy, scikit-learn), Tableau, Sigma, Dataiku, Postgres, TypeScript, Git
+
+Background
+
+Completing an M.S. in Data Science, with an MBA and an MA in English alongside it. Before analytics I worked in operations leadership, marketing, and e-commerce, which is where the habit of asking what a number is actually for comes from.
+
+The English degree turns out to be more relevant than it sounds. Most analysis fails at the explanation, not the math.
